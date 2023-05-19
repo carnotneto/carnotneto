@@ -1,6 +1,4 @@
 ## Hello World! 👋
 
-Meu nome é Carnot e estou dando meus primeiros passos com a programação! 
-
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas e tenho focado meus projetos em Data Science, onde poderei aproveitar também minhas demais formações e experiências anteriores, pois tenho Licenciatura em Matemática e também sou Bacharel em Administração de Empresas.
+"Welcome to my GitHub profile! I'm a passionate and driven junior data scientist, eager to explore the fascinating world of data. As an avid learner, I am constantly expanding my knowledge and skills in data science through self-study and hands-on projects. Here you'll find a collection of my coding projects, where I experiment with various algorithms, statistical models, and data visualization techniques. I believe in the power of data to drive informed decision-making and solve complex problems. Let's connect and collaborate on exciting data-driven projects!"
 
