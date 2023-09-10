@@ -14,8 +14,6 @@
 </div>
 
 
-## Hello World! 
-
 "Welcome to my GitHub profile! I'm a passionate and driven junior data scientist, eager to explore the fascinating world of data. As an avid learner, I am constantly expanding my knowledge and skills in data science through self-study and hands-on projects. Here you'll find a collection of my coding projects, where I experiment with various algorithms, statistical models, and data visualization techniques. I believe in the power of data to drive informed decision-making and solve complex problems. Let's connect and collaborate on exciting data-driven projects!"
 
 
@@ -62,7 +60,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,docker,figma,firebase,github,html,js,linux,mongodb,mysql,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=googlecloud,python,pandas,seaborn,django,scikitlearn,matplotlib,css,docker,bash,github,html,javascript,linux,mysql&perline=14" />
   </a>
 </p>
 
