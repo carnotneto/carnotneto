@@ -23,7 +23,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
+
+  <img  align="center" />
+  <br></br>
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carnotneto&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
   
  </td>
