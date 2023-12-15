@@ -28,7 +28,7 @@
   <br></br>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carnotneto&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carnotneto&size_weight=0.5&count_weight=0.5)
  </td>
 
 <td width="50%" align="center">
