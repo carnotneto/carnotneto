@@ -24,7 +24,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center" />
+  <img  align="center"   src="https://github-readme-stats.vercel.app/api?username=carnotneto&theme=dark&show_icons=true&count_private=true"/>
   <br></br>
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carnotneto&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
   
